@@ -16,6 +16,7 @@ namespace Uppgift_2._1
             string längre = Console.ReadLine();
 
             Console.WriteLine(Elin + hoppade + Alma + längre); // Hej
+            //hej hej
             
 
            
