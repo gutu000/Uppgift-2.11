@@ -15,7 +15,7 @@ namespace Uppgift_2._1
             Console.WriteLine("Jag hoppade lite längre än dig, jag hoppade 12 meter"); 
             string längre = Console.ReadLine();
 
-            Console.WriteLine(Elin + hoppade + Alma + längre);
+            Console.WriteLine(Elin + hoppade + Alma + längre); // Hej
             
 
            
